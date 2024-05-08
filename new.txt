@@ -1,6 +1,6 @@
 initial task 2 welcome
-<<<<<<< HEAD
+
 this is maha
-=======
+
 this is manisha
->>>>>>> 83a0487 (added success)
+
